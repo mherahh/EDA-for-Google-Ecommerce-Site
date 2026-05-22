@@ -1,0 +1,1001 @@
+source,medium,country,browser,device_category,pageviews,transactions,date,hits
+google,organic,Germany,Firefox,desktop,17,,20160801,24
+(direct),(none),United States,Internet Explorer,desktop,18,,20160801,24
+google,organic,United States,Safari,mobile,17,,20160801,27
+(direct),(none),United States,Chrome,desktop,19,,20160801,27
+google,organic,United States,Chrome,desktop,17,,20160801,27
+google,organic,United States,Chrome,desktop,18,,20160801,27
+google,organic,India,Chrome,desktop,18,,20160801,27
+google,organic,United States,Chrome,desktop,19,,20160801,28
+(direct),(none),United States,Chrome,mobile,18,,20160801,28
+(direct),(none),United States,Chrome,desktop,22,,20160801,28
+(direct),(none),United States,Chrome,desktop,20,,20160801,28
+(direct),(none),United States,Chrome,desktop,21,,20160801,28
+(direct),(none),United States,Chrome,desktop,18,,20160801,29
+(direct),(none),United States,Chrome,desktop,12,,20160801,29
+(direct),(none),United States,Chrome,tablet,27,,20160801,30
+(direct),(none),United States,Chrome,desktop,18,,20160801,30
+(direct),(none),United States,Chrome,desktop,22,,20160801,30
+google,organic,Switzerland,Chrome,desktop,23,,20160801,30
+(direct),(none),United States,Chrome,desktop,18,,20160801,30
+google,cpc,United States,Chrome,mobile,19,,20160801,31
+(direct),(none),United States,Chrome,desktop,29,,20160801,31
+(direct),(none),United States,Chrome,desktop,23,,20160801,31
+(direct),(none),United States,Chrome,desktop,21,,20160801,31
+(direct),(none),United States,Chrome,desktop,24,1,20160801,32
+(direct),(none),United States,Chrome,desktop,24,,20160801,32
+google,organic,United Kingdom,Safari,desktop,20,,20160801,32
+google,organic,Peru,Chrome,desktop,22,,20160801,32
+(direct),(none),United States,Chrome,desktop,22,,20160801,32
+dfa,cpm,United States,Chrome,desktop,31,,20160801,33
+(direct),(none),United States,Safari,desktop,13,,20160801,33
+google,organic,United States,Chrome,desktop,20,,20160801,33
+(direct),(none),United States,Safari,mobile,16,,20160801,35
+google,organic,United States,Chrome,desktop,26,1,20160801,35
+(direct),(none),United States,Chrome,desktop,27,1,20160801,36
+(direct),(none),United States,Chrome,desktop,28,,20160801,37
+(direct),(none),United States,Chrome,desktop,27,,20160801,37
+(direct),(none),United States,Chrome,desktop,31,1,20160801,37
+(direct),(none),United States,Safari,desktop,27,,20160801,37
+(direct),(none),United States,Chrome,desktop,33,1,20160801,37
+google,organic,United States,Safari,tablet,23,,20160801,37
+(direct),(none),United States,Chrome,desktop,27,,20160801,38
+google,organic,United States,Chrome,desktop,31,1,20160801,38
+(direct),(none),United States,Chrome,desktop,29,,20160801,38
+(direct),(none),United States,Chrome,desktop,25,,20160801,38
+(direct),(none),United States,Chrome,desktop,18,,20160801,39
+google,organic,United Kingdom,Chrome,desktop,27,,20160801,39
+google,organic,Italy,Chrome,desktop,22,,20160801,39
+(direct),(none),Taiwan,Chrome,desktop,23,,20160801,39
+google,organic,Australia,Chrome,desktop,27,,20160801,40
+(direct),(none),United States,Chrome,desktop,27,,20160801,41
+(direct),(none),United States,Chrome,desktop,31,,20160801,41
+google,organic,United States,Safari,mobile,39,,20160801,43
+(direct),(none),Kenya,Chrome,desktop,31,,20160801,46
+google,cpc,United States,Chrome,desktop,31,,20160801,47
+google,organic,United States,Chrome,desktop,31,,20160801,48
+(direct),(none),United States,Chrome,desktop,35,1,20160801,49
+(direct),(none),United States,Chrome,desktop,32,,20160801,49
+(direct),(none),United States,Chrome,desktop,30,,20160801,50
+google,organic,United States,Chrome,desktop,33,,20160801,50
+(direct),(none),United States,Chrome,desktop,43,1,20160801,51
+(direct),(none),United States,Chrome,desktop,37,1,20160801,53
+(direct),(none),United Kingdom,Safari,mobile,36,,20160801,53
+(direct),(none),United States,Chrome,desktop,25,,20160801,53
+(direct),(none),Kenya,Chrome,desktop,39,1,20160801,54
+(direct),(none),United States,Chrome,desktop,40,,20160801,54
+(direct),(none),India,Chrome,desktop,33,,20160801,55
+(direct),(none),United States,Chrome,desktop,35,,20160801,56
+google,organic,United States,Safari,tablet,27,,20160801,59
+(direct),(none),United States,Chrome,desktop,41,,20160801,59
+google,organic,United States,Chrome,desktop,44,,20160801,59
+(direct),(none),United States,Safari,mobile,42,,20160801,59
+google,organic,United States,Chrome,desktop,40,,20160801,59
+google,organic,United States,Chrome,desktop,46,,20160801,62
+(direct),(none),United States,Chrome,desktop,41,,20160801,62
+(direct),(none),United States,Chrome,desktop,64,,20160801,64
+(direct),(none),United States,Chrome,desktop,58,1,20160801,64
+(direct),(none),United States,Chrome,desktop,38,,20160801,66
+(direct),(none),United States,Chrome,desktop,42,1,20160801,67
+google,cpc,United States,Chrome,desktop,40,,20160801,67
+(direct),(none),United States,Chrome,desktop,49,,20160801,69
+basecamp.com,referral,United States,Chrome,desktop,49,1,20160801,69
+(direct),(none),United States,Chrome,desktop,40,,20160801,69
+(direct),(none),United States,Chrome,mobile,50,,20160801,75
+(direct),(none),United States,Chrome,desktop,59,1,20160801,79
+(direct),(none),United States,Chrome,desktop,58,1,20160801,83
+(direct),(none),United States,Chrome,desktop,60,1,20160801,83
+(direct),(none),Mexico,Chrome,desktop,57,,20160801,85
+(direct),(none),United States,Firefox,desktop,58,,20160801,86
+(direct),(none),United States,Chrome,desktop,58,,20160801,90
+(direct),(none),United States,Chrome,desktop,60,,20160801,92
+(direct),(none),Venezuela,Safari,mobile,60,,20160801,100
+(direct),(none),United States,Chrome,desktop,54,,20160801,113
+google,organic,United States,Chrome,desktop,61,,20160801,115
+dfa,cpm,United States,Chrome,desktop,92,,20160801,127
+(direct),(none),United States,Chrome,desktop,55,,20160801,162
+google,organic,United States,Chrome,desktop,109,,20160801,164
+(direct),(none),Brazil,Chrome,mobile,133,,20160801,196
+google,organic,United States,Chrome,desktop,103,1,20160801,229
+google,organic,United States,Chrome,mobile,2,,20160801,2
+google,organic,Mexico,Chrome,desktop,2,,20160801,2
+google,organic,India,Safari,mobile,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+google,organic,United States,Safari,mobile,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+squishable.com,referral,Japan,Chrome,mobile,2,,20160801,2
+google,organic,United States,Chrome,mobile,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Firefox,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+google,organic,India,Firefox,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+google,organic,Brazil,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+google,organic,United States,Chrome,desktop,2,,20160801,2
+(direct),(none),Kenya,Chrome,desktop,2,,20160801,2
+google,organic,United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+facebook.com,referral,Mexico,Chrome,desktop,2,,20160801,2
+google,organic,Italy,Firefox,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Firefox,desktop,2,,20160801,2
+google,organic,Australia,Chrome,mobile,2,,20160801,2
+google,organic,Austria,Safari,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+google,organic,Indonesia,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Safari,mobile,2,,20160801,2
+google,organic,Australia,Chrome,tablet,2,,20160801,2
+(direct),(none),United States,Chrome,mobile,2,,20160801,2
+(direct),(none),United States,Chrome,tablet,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United Kingdom,Chrome,desktop,2,,20160801,2
+google,organic,United States,Safari,mobile,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,mobile,2,,20160801,2
+(direct),(none),United States,Chrome,mobile,2,,20160801,2
+(direct),(none),Italy,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+google,organic,Germany,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Safari,desktop,2,,20160801,2
+google,cpc,United States,Chrome,desktop,2,,20160801,2
+google,organic,United States,Chrome,desktop,2,,20160801,2
+google,organic,United States,Safari,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),Poland,Chrome,desktop,2,,20160801,2
+sites.google.com,referral,United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,1,,20160801,2
+m.facebook.com,referral,United States,Safari (in-app),mobile,2,,20160801,2
+google,organic,United States,Chrome,desktop,2,,20160801,2
+youtube.com,referral,United States,Chrome,desktop,2,,20160801,2
+google,organic,United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+google,organic,United States,Safari,mobile,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+google.com.au,referral,Australia,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Internet Explorer,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Safari,mobile,2,,20160801,2
+(direct),(none),United States,Safari,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),Ireland,Chrome,desktop,2,,20160801,2
+google,organic,United States,Chrome,desktop,2,,20160801,2
+google,organic,Germany,Firefox,desktop,2,,20160801,2
+google,organic,United States,Safari,mobile,2,,20160801,2
+(direct),(none),United States,Safari,mobile,2,,20160801,2
+(direct),(none),United States,Safari,mobile,2,,20160801,2
+google,organic,United Kingdom,Safari,mobile,2,,20160801,2
+Partners,affiliate,United States,Chrome,desktop,2,,20160801,2
+youtube.com,referral,Pakistan,Chrome,desktop,2,,20160801,2
+(direct),(none),(not set),Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+google,organic,United Kingdom,Safari,mobile,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+youtube.com,referral,United States,Chrome,desktop,1,,20160801,2
+google.com,referral,Mexico,Chrome,mobile,1,,20160801,2
+(direct),(none),United States,Chrome,desktop,1,,20160801,2
+youtube.com,referral,Slovenia,Safari,desktop,2,,20160801,2
+youtube.com,referral,Egypt,Safari,desktop,2,,20160801,2
+youtube.com,referral,Ghana,Chrome,desktop,2,,20160801,2
+youtube.com,referral,Singapore,Chrome,desktop,2,,20160801,2
+youtube.com,referral,Uruguay,Safari,desktop,2,,20160801,2
+youtube.com,referral,United Arab Emirates,Chrome,desktop,2,,20160801,2
+youtube.com,referral,Philippines,Safari,desktop,2,,20160801,2
+youtube.com,referral,Thailand,Safari,desktop,2,,20160801,2
+youtube.com,referral,Macedonia (FYROM),Chrome,desktop,2,,20160801,2
+youtube.com,referral,Portugal,Chrome,desktop,2,,20160801,2
+youtube.com,referral,Egypt,Chrome,desktop,2,,20160801,2
+youtube.com,referral,United States,Internet Explorer,desktop,1,,20160801,2
+youtube.com,referral,India,Chrome,desktop,2,,20160801,2
+youtube.com,referral,Philippines,Safari,desktop,2,,20160801,2
+youtube.com,referral,Nigeria,Safari,desktop,2,,20160801,2
+youtube.com,referral,Pakistan,Safari,desktop,2,,20160801,2
+youtube.com,referral,Turkey,Safari,desktop,2,,20160801,2
+youtube.com,referral,Malaysia,Chrome,desktop,2,,20160801,2
+youtube.com,referral,United States,Chrome,desktop,2,,20160801,2
+youtube.com,referral,India,Chrome,desktop,2,,20160801,2
+youtube.com,referral,Bulgaria,Safari,desktop,2,,20160801,2
+youtube.com,referral,Pakistan,Safari,desktop,2,,20160801,2
+youtube.com,referral,United States,Safari,desktop,1,,20160801,2
+youtube.com,referral,New Zealand,Safari,desktop,2,,20160801,2
+youtube.com,referral,Vietnam,Safari,desktop,2,,20160801,2
+youtube.com,referral,Indonesia,Chrome,desktop,2,,20160801,2
+youtube.com,referral,Oman,Chrome,desktop,2,,20160801,2
+youtube.com,referral,India,Safari,desktop,2,,20160801,2
+youtube.com,referral,Albania,Chrome,desktop,2,,20160801,2
+youtube.com,referral,United States,Chrome,desktop,2,,20160801,2
+youtube.com,referral,United States,Chrome,desktop,2,,20160801,2
+youtube.com,referral,United States,Chrome,desktop,2,,20160801,2
+youtube.com,referral,United States,Opera,desktop,2,,20160801,2
+youtube.com,referral,Pakistan,Chrome,desktop,2,,20160801,2
+youtube.com,referral,Thailand,Chrome,desktop,2,,20160801,2
+youtube.com,referral,United States,Chrome,desktop,2,,20160801,2
+youtube.com,referral,Thailand,Chrome,desktop,2,,20160801,2
+youtube.com,referral,Bangladesh,Chrome,desktop,2,,20160801,2
+youtube.com,referral,Kenya,Chrome,desktop,2,,20160801,2
+youtube.com,referral,United States,Safari,desktop,2,,20160801,2
+(direct),(none),Romania,Safari,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),Peru,Safari,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),Algeria,Chrome,mobile,2,,20160801,2
+google,organic,United States,Chrome,desktop,2,,20160801,2
+google,organic,United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,1,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+google,organic,United States,Chrome,desktop,2,,20160801,2
+(direct),(none),Turkey,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+google,cpc,United States,Chrome,tablet,2,,20160801,2
+optimize.google.com,referral,United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Internet Explorer,desktop,2,,20160801,2
+(direct),(none),Mexico,Safari,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,mobile,2,,20160801,2
+(direct),(none),Brazil,Chrome,desktop,2,,20160801,2
+google,organic,United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Safari,mobile,2,,20160801,2
+(direct),(none),Saudi Arabia,Chrome,mobile,2,,20160801,2
+(direct),(none),Canada,Chrome,desktop,2,,20160801,2
+google,organic,United States,Chrome,desktop,2,,20160801,2
+google,organic,United States,Chrome,mobile,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+(direct),(none),United States,Safari,mobile,2,,20160801,2
+google,organic,United States,Safari,mobile,2,,20160801,2
+(direct),(none),United States,Chrome,desktop,2,,20160801,2
+google,organic,United States,Chrome,mobile,2,,20160801,2
+google,organic,Canada,Chrome,mobile,2,,20160801,2
+google,organic,United States,Chrome,mobile,1,,20160801,2
+youtube.com,referral,United States,Chrome,desktop,1,,20160801,2
+youtube.com,referral,Turkey,Chrome,desktop,1,,20160801,2
+(direct),(none),Brazil,Safari,desktop,1,,20160801,2
+google,organic,Japan,Chrome,desktop,2,,20160801,3
+google,organic,United Kingdom,Chrome,desktop,2,,20160801,3
+(direct),(none),United States,Internet Explorer,desktop,2,,20160801,3
+google,organic,United States,Safari,mobile,3,,20160801,3
+google,organic,India,Chrome,desktop,3,,20160801,3
+google,organic,Philippines,Chrome,desktop,3,,20160801,3
+google,organic,United States,Chrome,desktop,3,,20160801,3
+google,cpc,United States,Chrome,mobile,3,,20160801,3
+google,organic,India,Firefox,desktop,3,,20160801,3
+google,organic,United States,Chrome,desktop,3,,20160801,3
+google,organic,United States,Chrome,desktop,3,,20160801,3
+dfa,cpm,United States,Chrome,desktop,3,,20160801,3
+google,organic,United States,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Safari,mobile,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+google.com,referral,Turkey,Chrome,mobile,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,mobile,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+youtube.com,referral,United States,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+mail.google.com,referral,United States,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Safari,mobile,3,,20160801,3
+dfa,cpm,United States,Chrome,desktop,3,,20160801,3
+google,organic,United Kingdom,Safari,mobile,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+Partners,affiliate,United States,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+google,cpc,United States,Safari,tablet,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+google,organic,Switzerland,Safari,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+google,organic,United States,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Safari,mobile,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Safari,mobile,3,,20160801,3
+google,organic,United States,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+(direct),(none),United Kingdom,Chrome,desktop,3,,20160801,3
+(direct),(none),Australia,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,2,,20160801,3
+google,organic,Canada,Safari,tablet,2,,20160801,3
+(direct),(none),United States,Chrome,mobile,2,,20160801,3
+google,organic,United States,Safari,mobile,2,,20160801,3
+(direct),(none),United States,Chrome,desktop,2,,20160801,3
+(direct),(none),United States,Chrome,tablet,2,,20160801,3
+(direct),(none),United States,Safari,mobile,2,,20160801,3
+(direct),(none),United States,Safari,tablet,2,,20160801,3
+(direct),(none),United States,Safari (in-app),mobile,2,,20160801,3
+google,organic,Mexico,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Safari,mobile,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+(direct),(none),Brazil,Chrome,desktop,3,,20160801,3
+google,organic,United Kingdom,Internet Explorer,desktop,3,,20160801,3
+(direct),(none),Japan,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+google,organic,United States,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+Partners,affiliate,United Arab Emirates,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,mobile,2,,20160801,3
+youtube.com,referral,Russia,YaBrowser,desktop,2,,20160801,3
+youtube.com,referral,United States,Chrome,desktop,2,,20160801,3
+youtube.com,referral,United Kingdom,Chrome,desktop,2,,20160801,3
+google,organic,United Kingdom,Chrome,desktop,2,,20160801,3
+(direct),(none),United States,Safari,mobile,2,,20160801,3
+google,organic,United Kingdom,Chrome,desktop,2,,20160801,3
+google,organic,United States,Chrome,desktop,2,,20160801,3
+google,organic,Canada,Chrome,desktop,2,,20160801,3
+google,cpc,United States,Chrome,desktop,2,,20160801,3
+(direct),(none),United States,Chrome,desktop,2,,20160801,3
+(direct),(none),United States,Safari,mobile,2,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+google,organic,United States,Chrome,desktop,2,,20160801,3
+(direct),(none),Canada,Chrome,desktop,2,,20160801,3
+(direct),(none),United States,Chrome,desktop,2,,20160801,3
+(direct),(none),United States,Chrome,desktop,2,,20160801,3
+(direct),(none),United States,Safari,mobile,2,,20160801,3
+(direct),(none),United States,Safari,mobile,2,,20160801,3
+(direct),(none),United States,Chrome,mobile,2,,20160801,3
+google,organic,United Kingdom,Chrome,mobile,2,,20160801,3
+(direct),(none),Puerto Rico,Chrome,desktop,2,,20160801,3
+youtube.com,referral,Philippines,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,mobile,3,,20160801,3
+gophergala.com,referral,Estonia,Chrome,desktop,3,,20160801,3
+(direct),(none),Turkey,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,2,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+squishable.com,referral,United States,Chrome,desktop,3,,20160801,3
+(direct),(none),South Korea,UC Browser,mobile,3,,20160801,3
+(direct),(none),United States,Chrome,desktop,3,,20160801,3
+youtube.com,referral,United States,Internet Explorer,desktop,3,,20160801,3
+google,organic,United States,Chrome,tablet,3,,20160801,3
+(direct),(none),China,Chrome,desktop,3,,20160801,3
+google,organic,Indonesia,Chrome,desktop,3,,20160801,4
+(direct),(none),United States,Chrome,desktop,3,,20160801,4
+google,organic,Pakistan,Opera,desktop,3,,20160801,4
+google,organic,United States,Safari,mobile,3,,20160801,4
+google,organic,United States,Chrome,mobile,3,,20160801,4
+(direct),(none),United States,Chrome,desktop,3,,20160801,4
+facebook.com,referral,United States,Chrome,desktop,3,,20160801,4
+(direct),(none),United States,Chrome,desktop,3,,20160801,4
+(direct),(none),United States,Chrome,desktop,3,,20160801,4
+(direct),(none),United States,Chrome,desktop,3,,20160801,4
+(direct),(none),United States,Chrome,desktop,3,,20160801,4
+google,organic,United States,Chrome,desktop,3,,20160801,4
+google,organic,Germany,Safari,mobile,3,,20160801,4
+google,organic,Sri Lanka,Chrome,tablet,3,,20160801,4
+google,organic,United States,Chrome,mobile,3,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Internet Explorer,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),Malaysia,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+youtube.com,referral,Canada,Firefox,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+youtube.com,referral,United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+google,organic,United States,Chrome,desktop,4,,20160801,4
+(direct),(none),Spain,Firefox,desktop,4,,20160801,4
+(direct),(none),India,Firefox,desktop,4,,20160801,4
+(direct),(none),United Kingdom,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,mobile,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+google,organic,Italy,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),India,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Firefox,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+google,organic,United States,Chrome,desktop,4,,20160801,4
+sites.google.com,referral,United States,Chrome,desktop,4,,20160801,4
+google,organic,United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,tablet,4,,20160801,4
+google,organic,Brazil,Chrome,desktop,4,,20160801,4
+m.facebook.com,referral,United States,Safari (in-app),mobile,4,,20160801,4
+google,organic,United States,Chrome,desktop,4,,20160801,4
+google,organic,Taiwan,Chrome,desktop,4,,20160801,4
+(direct),(none),United Kingdom,Safari,mobile,4,,20160801,4
+google,organic,Mexico,Safari,desktop,4,,20160801,4
+google,organic,United States,Chrome,mobile,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+google,organic,United States,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+youtube.com,referral,Philippines,Chrome,desktop,3,,20160801,4
+youtube.com,referral,United States,Chrome,desktop,3,,20160801,4
+(direct),(none),United States,Chrome,mobile,3,,20160801,4
+(direct),(none),United States,Chrome,desktop,3,,20160801,4
+(direct),(none),United States,Chrome,mobile,3,,20160801,4
+(direct),(none),United States,Safari,mobile,3,,20160801,4
+(direct),(none),United States,Chrome,mobile,3,,20160801,4
+(direct),(none),United States,Chrome,tablet,3,,20160801,4
+google,cpc,Canada,Chrome,mobile,3,,20160801,4
+(direct),(none),United States,Chrome,desktop,3,,20160801,4
+(direct),(none),United States,Chrome,desktop,3,,20160801,4
+youtube.com,referral,United States,Internet Explorer,desktop,2,,20160801,4
+(direct),(none),France,Chrome,desktop,3,,20160801,4
+(direct),(none),United States,Chrome,desktop,3,,20160801,4
+google,organic,India,Safari,mobile,2,,20160801,4
+google,organic,United States,Safari,mobile,3,,20160801,4
+google.com.mx,referral,Mexico,Chrome,desktop,3,,20160801,4
+google,organic,United Kingdom,Chrome,mobile,3,,20160801,4
+google,organic,Australia,Chrome,desktop,3,,20160801,4
+google,organic,United States,Chrome,desktop,3,,20160801,4
+(direct),(none),United States,Chrome,mobile,3,,20160801,4
+quora.com,referral,United States,Chrome,desktop,4,,20160801,4
+google,organic,United States,Chrome,desktop,4,,20160801,4
+youtube.com,referral,Indonesia,Safari,desktop,4,,20160801,4
+youtube.com,referral,Malaysia,Safari,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),Thailand,Safari,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,2,,20160801,4
+google,organic,Spain,Chrome,desktop,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+(direct),(none),Bangladesh,UC Browser,mobile,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+youtube.com,referral,Denmark,Safari,tablet,4,,20160801,4
+(direct),(none),United States,Chrome,desktop,4,,20160801,4
+google,organic,Slovakia,Chrome,mobile,4,,20160801,4
+youtube.com,referral,Bangladesh,Opera,desktop,4,,20160801,5
+yahoo,organic,United States,Firefox,desktop,4,,20160801,5
+(direct),(none),United States,Chrome,desktop,4,,20160801,5
+(direct),(none),United Kingdom,Chrome,desktop,4,,20160801,5
+(direct),(none),United States,Chrome,desktop,4,,20160801,5
+(direct),(none),United States,Chrome,desktop,4,,20160801,5
+google,cpc,United States,Chrome,desktop,3,,20160801,5
+google,organic,United Kingdom,Safari,desktop,4,,20160801,5
+google,organic,Germany,Safari,desktop,3,,20160801,5
+google,organic,United States,Chrome,desktop,3,,20160801,5
+google,organic,Taiwan,Chrome,desktop,3,,20160801,5
+google,organic,India,Chrome,desktop,4,,20160801,5
+google,organic,United States,Chrome,desktop,3,,20160801,5
+google,organic,United States,Safari,mobile,3,,20160801,5
+(direct),(none),United States,Chrome,desktop,3,,20160801,5
+google,organic,Mexico,Chrome,desktop,3,,20160801,5
+google,organic,India,Chrome,desktop,3,,20160801,5
+(direct),(none),United States,Safari,desktop,4,,20160801,5
+(direct),(none),United States,Chrome,mobile,3,,20160801,5
+(direct),(none),United States,Chrome,desktop,4,,20160801,5
+google.com,referral,United States,Chrome,mobile,2,,20160801,5
+(direct),(none),United States,Chrome,desktop,4,,20160801,5
+(direct),(none),Philippines,Chrome,tablet,4,,20160801,5
+(direct),(none),United States,Chrome,desktop,4,,20160801,5
+google,organic,India,UC Browser,tablet,4,,20160801,5
+youtube.com,referral,United States,Edge,desktop,5,,20160801,5
+youtube.com,referral,Armenia,Chrome,desktop,5,,20160801,5
+youtube.com,referral,Sri Lanka,Chrome,desktop,5,,20160801,5
+youtube.com,referral,Australia,Chrome,desktop,5,,20160801,5
+youtube.com,referral,United States,Chrome,mobile,5,,20160801,5
+(direct),(none),United States,Chrome,desktop,5,,20160801,5
+(direct),(none),United States,Chrome,desktop,5,,20160801,5
+google,organic,United States,Chrome,desktop,5,,20160801,5
+google,organic,United States,Chrome,desktop,5,,20160801,5
+google,organic,United States,Chrome,desktop,5,,20160801,5
+(direct),(none),Japan,Firefox,desktop,5,,20160801,5
+(direct),(none),United States,Chrome,desktop,5,,20160801,5
+(direct),(none),United States,Chrome,desktop,5,,20160801,5
+(direct),(none),Canada,Chrome,desktop,5,,20160801,5
+(direct),(none),United States,Chrome,desktop,5,,20160801,5
+(direct),(none),United States,Chrome,desktop,5,,20160801,5
+google,organic,United States,Chrome,desktop,5,,20160801,5
+google,organic,United States,Amazon Silk,tablet,5,,20160801,5
+(direct),(none),United States,Chrome,desktop,5,,20160801,5
+(direct),(none),Pakistan,Chrome,desktop,5,,20160801,5
+google,organic,United States,Chrome,desktop,5,,20160801,5
+(direct),(none),United States,Chrome,desktop,5,,20160801,5
+youtube.com,referral,Philippines,Chrome,desktop,5,,20160801,5
+google,organic,Sweden,Chrome,desktop,5,,20160801,5
+google,organic,United States,Chrome,desktop,5,,20160801,5
+google,organic,Australia,Safari,desktop,5,,20160801,5
+(direct),(none),United States,Chrome,desktop,5,,20160801,5
+(direct),(none),Russia,Safari,desktop,5,,20160801,5
+google,organic,United States,Chrome,mobile,5,,20160801,5
+(direct),(none),United States,Chrome,desktop,5,,20160801,5
+google.com,referral,Estonia,Chrome,desktop,5,,20160801,5
+google,organic,Netherlands,Firefox,desktop,5,,20160801,5
+google,organic,United States,Safari,mobile,5,,20160801,5
+dfa,cpm,United States,Chrome,desktop,5,,20160801,5
+(direct),(none),United States,Chrome,desktop,5,,20160801,5
+(direct),(none),United States,Chrome,desktop,5,,20160801,5
+google,organic,United States,Chrome,desktop,5,,20160801,5
+(direct),(none),Canada,Chrome,desktop,5,,20160801,5
+(direct),(none),United States,Chrome,tablet,5,,20160801,5
+(direct),(none),United States,Chrome,desktop,4,,20160801,5
+(direct),(none),United States,Chrome,mobile,4,,20160801,5
+youtube.com,referral,Canada,Chrome,desktop,4,,20160801,5
+youtube.com,referral,India,Chrome,mobile,4,,20160801,5
+google,organic,Venezuela,Chrome,desktop,4,,20160801,5
+(direct),(none),United States,Chrome,mobile,4,,20160801,5
+(direct),(none),United States,Chrome,mobile,4,,20160801,5
+(direct),(none),United States,Internet Explorer,mobile,4,,20160801,5
+google,organic,United States,Safari,mobile,4,,20160801,5
+(direct),(none),United States,Chrome,desktop,4,,20160801,5
+google,organic,Sri Lanka,Chrome,tablet,4,,20160801,6
+(direct),(none),United States,Safari,mobile,3,,20160801,6
+youtube.com,referral,United Kingdom,Chrome,desktop,4,,20160801,6
+(direct),(none),United States,Safari,mobile,4,,20160801,6
+(direct),(none),Canada,Chrome,desktop,5,,20160801,6
+(direct),(none),United States,Chrome,desktop,5,,20160801,6
+google,organic,India,Chrome,mobile,4,,20160801,6
+google,organic,United States,Safari,mobile,4,,20160801,6
+(direct),(none),Peru,Chrome,desktop,4,,20160801,6
+google,organic,Hong Kong,Chrome,desktop,2,,20160801,6
+(direct),(none),United States,Chrome,desktop,4,,20160801,6
+(direct),(none),United States,Chrome,desktop,5,,20160801,6
+google,organic,United States,Chrome,desktop,4,,20160801,6
+(direct),(none),United States,Chrome,desktop,3,,20160801,6
+(direct),(none),United States,Chrome,desktop,4,,20160801,6
+(direct),(none),United States,Chrome,desktop,5,,20160801,6
+(direct),(none),United States,Chrome,desktop,5,,20160801,6
+google,organic,Canada,Firefox,desktop,4,,20160801,6
+(direct),(none),Spain,Chrome,desktop,4,,20160801,6
+(direct),(none),United States,Chrome,desktop,4,,20160801,6
+(direct),(none),United States,Chrome,tablet,4,,20160801,6
+(direct),(none),United States,Safari,mobile,4,,20160801,6
+(direct),(none),United States,Chrome,desktop,4,,20160801,6
+(direct),(none),United States,Safari,mobile,5,,20160801,6
+google,organic,United States,Chrome,mobile,5,,20160801,6
+google,organic,Netherlands,Chrome,desktop,4,,20160801,6
+google,organic,United States,Chrome,desktop,6,,20160801,6
+google,organic,United Kingdom,Chrome,mobile,6,,20160801,6
+startpage.com,referral,United States,Chrome,desktop,5,,20160801,6
+(direct),(none),United States,Chrome,desktop,6,,20160801,6
+google,organic,United States,Chrome,desktop,6,,20160801,6
+(direct),(none),United States,Chrome,mobile,6,,20160801,6
+(direct),(none),Panama,Chrome,desktop,6,,20160801,6
+Partners,affiliate,United States,Chrome,mobile,6,,20160801,6
+google,organic,United Kingdom,Chrome,desktop,6,,20160801,6
+(direct),(none),United States,Chrome,desktop,6,,20160801,6
+google,organic,United States,Chrome,desktop,6,,20160801,6
+youtube.com,referral,United States,Chrome,desktop,6,,20160801,6
+(direct),(none),United States,Chrome,desktop,6,,20160801,6
+(direct),(none),United States,Chrome,desktop,6,,20160801,6
+(direct),(none),Argentina,Chrome,desktop,6,,20160801,6
+(direct),(none),United States,Chrome,desktop,6,,20160801,6
+(direct),(none),United States,Chrome,desktop,6,,20160801,6
+(direct),(none),Canada,Chrome,desktop,6,,20160801,6
+google,organic,Denmark,Chrome,desktop,6,,20160801,6
+(direct),(none),United States,Amazon Silk,tablet,5,,20160801,6
+(direct),(none),United States,Safari,mobile,5,,20160801,6
+(direct),(none),United States,Chrome,mobile,5,,20160801,6
+google.com,referral,United States,Internet Explorer,desktop,5,,20160801,6
+(direct),(none),United States,Safari,mobile,3,,20160801,7
+google,organic,India,Chrome,mobile,4,,20160801,7
+google,organic,United States,Chrome,mobile,5,,20160801,7
+(direct),(none),Peru,Chrome,desktop,5,,20160801,7
+(direct),(none),United States,Safari,desktop,5,,20160801,7
+(direct),(none),United States,Chrome,desktop,5,,20160801,7
+(direct),(none),United States,Chrome,desktop,6,,20160801,7
+google,organic,United States,Chrome,desktop,6,,20160801,7
+(direct),(none),United States,Chrome,desktop,5,,20160801,7
+(direct),(none),United States,Chrome,desktop,4,,20160801,7
+(direct),(none),Australia,Chrome,desktop,4,,20160801,7
+(direct),(none),Canada,Chrome,desktop,5,,20160801,7
+(direct),(none),United States,Chrome,desktop,4,,20160801,7
+(direct),(none),United States,Chrome,desktop,5,,20160801,7
+(direct),(none),United States,Chrome,mobile,5,,20160801,7
+(direct),(none),United States,Chrome,desktop,6,,20160801,7
+(direct),(none),Portugal,Chrome,desktop,3,,20160801,7
+(direct),(none),Taiwan,Chrome,desktop,7,,20160801,7
+google,organic,United States,Chrome,desktop,7,,20160801,7
+(direct),(none),United States,Chrome,mobile,7,,20160801,7
+(direct),(none),Spain,Safari,mobile,7,,20160801,7
+(direct),(none),United States,Chrome,desktop,7,,20160801,7
+google,organic,France,Chrome,desktop,7,,20160801,7
+(direct),(none),United States,Chrome,mobile,7,,20160801,7
+(direct),(none),Venezuela,Firefox,desktop,7,,20160801,7
+google,organic,Belgium,Chrome,mobile,7,,20160801,7
+youtube.com,referral,United States,Chrome,desktop,7,,20160801,7
+(direct),(none),Canada,Chrome,desktop,7,,20160801,7
+(direct),(none),United States,Chrome,desktop,7,,20160801,7
+sites.google.com,referral,United States,Chrome,desktop,7,,20160801,7
+(direct),(none),United States,Chrome,desktop,7,,20160801,7
+(direct),(none),United States,Chrome,desktop,7,,20160801,7
+(direct),(none),Canada,Internet Explorer,desktop,7,,20160801,7
+(direct),(none),United States,Chrome,desktop,7,,20160801,7
+(direct),(none),United States,Chrome,desktop,7,,20160801,7
+(direct),(none),United States,Chrome,desktop,7,,20160801,7
+(direct),(none),United States,Chrome,desktop,7,,20160801,7
+sites.google.com,referral,United States,Chrome,desktop,7,,20160801,7
+(direct),(none),United States,Chrome,desktop,7,,20160801,7
+google,organic,Malaysia,Chrome,desktop,7,,20160801,7
+(direct),(none),United States,Chrome,desktop,6,,20160801,7
+google,organic,United States,Chrome,desktop,6,,20160801,7
+(direct),(none),India,Chrome,desktop,6,,20160801,7
+google,organic,United States,Safari,mobile,6,,20160801,7
+(direct),(none),United States,Chrome,desktop,6,,20160801,8
+(direct),(none),United States,Chrome,desktop,5,,20160801,8
+google.com,referral,United States,Safari,desktop,6,,20160801,8
+(direct),(none),United States,Chrome,desktop,6,,20160801,8
+(direct),(none),United States,Chrome,desktop,5,,20160801,8
+google,organic,India,Chrome,mobile,4,,20160801,8
+google,organic,Hong Kong,Chrome,desktop,5,,20160801,8
+google,organic,United States,Chrome,mobile,6,,20160801,8
+(direct),(none),United States,Chrome,desktop,6,,20160801,8
+google,organic,Vietnam,Safari,desktop,6,,20160801,8
+(direct),(none),Brazil,Chrome,desktop,6,,20160801,8
+(direct),(none),United States,Chrome,desktop,6,,20160801,8
+google,organic,United States,Safari,desktop,6,,20160801,8
+google,organic,Malaysia,Chrome,desktop,6,,20160801,8
+(direct),(none),United States,Chrome,desktop,5,,20160801,8
+(direct),(none),United States,Chrome,desktop,7,,20160801,8
+(direct),(none),United States,Chrome,desktop,7,,20160801,8
+google,organic,United States,Firefox,desktop,6,,20160801,8
+(direct),(none),United States,Chrome,desktop,5,,20160801,8
+(direct),(none),United States,Chrome,desktop,5,,20160801,8
+(direct),(none),United States,Chrome,desktop,5,,20160801,8
+(direct),(none),United States,Chrome,desktop,7,,20160801,8
+youtube.com,referral,United States,Opera,desktop,2,,20160801,8
+google,organic,United States,Chrome,desktop,7,,20160801,8
+(direct),(none),United States,Chrome,desktop,7,,20160801,8
+google,organic,United States,Chrome,mobile,6,,20160801,8
+google,organic,Canada,Chrome,tablet,7,,20160801,8
+(direct),(none),United States,Chrome,mobile,5,,20160801,8
+(direct),(none),United States,Chrome,desktop,8,,20160801,8
+google,organic,United States,Chrome,desktop,8,,20160801,8
+(direct),(none),United States,Chrome,desktop,8,,20160801,8
+google,organic,Japan,Chrome,desktop,8,,20160801,8
+(direct),(none),United States,Chrome,desktop,8,,20160801,8
+(direct),(none),United States,Chrome,desktop,8,,20160801,8
+(direct),(none),United States,Chrome,desktop,8,,20160801,8
+(direct),(none),United States,Chrome,desktop,8,,20160801,8
+(direct),(none),United States,Chrome,desktop,8,,20160801,8
+(direct),(none),United States,Chrome,desktop,8,,20160801,8
+(direct),(none),United States,Chrome,desktop,8,,20160801,8
+google,organic,United States,Chrome,desktop,8,,20160801,8
+(direct),(none),New Zealand,Chrome,desktop,8,,20160801,8
+google,organic,Canada,Chrome,desktop,6,,20160801,9
+google,cpc,United States,Chrome,mobile,6,,20160801,9
+google,organic,United States,Chrome,mobile,6,,20160801,9
+(direct),(none),United States,Chrome,desktop,6,,20160801,9
+google,organic,Canada,Chrome,desktop,7,,20160801,9
+google,organic,Germany,Chrome,desktop,6,,20160801,9
+(direct),(none),Tunisia,Chrome,desktop,5,,20160801,9
+google,organic,United States,Chrome,desktop,8,,20160801,9
+google,organic,United States,Chrome,desktop,9,1,20160801,9
+google,organic,Canada,Safari,desktop,8,,20160801,9
+google,organic,Italy,Chrome,mobile,7,,20160801,9
+(direct),(none),United States,Chrome,desktop,6,,20160801,9
+(direct),(none),United States,Chrome,desktop,9,,20160801,9
+(direct),(none),United States,Chrome,desktop,7,,20160801,9
+google,organic,United Kingdom,Safari,desktop,7,,20160801,9
+google,organic,Canada,Chrome,desktop,5,,20160801,9
+yahoo,organic,United States,Firefox,desktop,8,,20160801,9
+google,cpc,United States,Chrome,desktop,7,,20160801,9
+google,organic,Malaysia,Chrome,desktop,7,,20160801,9
+google,organic,United States,Safari,mobile,7,,20160801,9
+(direct),(none),United States,Chrome,mobile,7,,20160801,9
+google,organic,Russia,Chrome,desktop,7,,20160801,9
+(direct),(none),United States,Chrome,desktop,6,,20160801,9
+(direct),(none),United States,Chrome,desktop,8,,20160801,9
+(direct),(none),United States,Chrome,mobile,8,,20160801,9
+(direct),(none),United States,Chrome,desktop,8,,20160801,9
+google,organic,Thailand,Chrome,mobile,7,,20160801,9
+google,organic,United States,Chrome,desktop,7,,20160801,9
+(direct),(none),United States,Safari,mobile,8,,20160801,9
+(direct),(none),Taiwan,Chrome,desktop,8,,20160801,9
+youtube.com,referral,United States,Chrome,desktop,9,,20160801,9
+google,organic,Turkey,Firefox,desktop,9,,20160801,9
+(direct),(none),United States,Chrome,desktop,9,,20160801,9
+(direct),(none),United States,Chrome,desktop,9,,20160801,9
+google,organic,United States,Chrome,desktop,9,,20160801,9
+(direct),(none),United States,Chrome,desktop,9,,20160801,9
+(direct),(none),United States,Chrome,desktop,9,,20160801,9
+(direct),(none),United States,Chrome,desktop,9,,20160801,9
+(direct),(none),United States,Chrome,desktop,9,,20160801,9
+(direct),(none),Singapore,Chrome,desktop,9,,20160801,9
+google,organic,United States,Chrome,desktop,9,,20160801,9
+(direct),(none),United States,Chrome,desktop,9,,20160801,9
+(direct),(none),United States,Chrome,desktop,9,,20160801,9
+(direct),(none),United States,Chrome,desktop,9,,20160801,9
+(direct),(none),Canada,Safari,mobile,6,,20160801,10
+(direct),(none),United States,Chrome,desktop,7,,20160801,10
+(direct),(none),Russia,Chrome,desktop,7,,20160801,10
+google,organic,United States,Chrome,desktop,7,,20160801,10
+google,organic,United States,Safari,mobile,7,,20160801,10
+(direct),(none),United States,Chrome,desktop,8,,20160801,10
+(direct),(none),United States,Chrome,desktop,6,,20160801,10
+(direct),(none),United States,Safari,mobile,6,,20160801,10
+google,organic,Poland,Chrome,mobile,4,,20160801,10
+facebook.com,referral,United States,Chrome,desktop,7,,20160801,10
+facebook.com,referral,Poland,Chrome,desktop,9,,20160801,10
+(direct),(none),United States,Chrome,mobile,8,,20160801,10
+(direct),(none),United States,Chrome,desktop,8,,20160801,10
+(direct),(none),United States,Chrome,mobile,8,,20160801,10
+(direct),(none),United States,Firefox,desktop,8,,20160801,10
+(direct),(none),United States,Chrome,desktop,8,,20160801,10
+(direct),(none),United States,Chrome,mobile,8,,20160801,10
+(direct),(none),United States,Safari,mobile,7,,20160801,10
+google.com,referral,United States,Chrome,mobile,9,,20160801,10
+(direct),(none),United States,Chrome,desktop,6,,20160801,10
+google,organic,India,Chrome,desktop,4,,20160801,10
+google,organic,Japan,Chrome,desktop,8,,20160801,10
+youtube.com,referral,United States,Firefox,desktop,7,,20160801,10
+(direct),(none),United States,Chrome,desktop,9,,20160801,10
+(direct),(none),Taiwan,Chrome,desktop,7,,20160801,10
+(direct),(none),United States,Edge,desktop,10,,20160801,10
+google,organic,United States,Chrome,desktop,10,,20160801,10
+google,organic,Sweden,Chrome,desktop,10,,20160801,10
+google,organic,Norway,Chrome,desktop,10,,20160801,10
+(direct),(none),United States,Chrome,desktop,10,,20160801,10
+(direct),(none),United States,Chrome,desktop,10,,20160801,10
+(direct),(none),United States,Chrome,desktop,10,,20160801,10
+google,organic,India,Chrome,desktop,10,,20160801,10
+google,organic,United States,Chrome,desktop,5,,20160801,10
+google,organic,Brazil,Chrome,mobile,10,,20160801,10
+google,organic,United States,Safari,mobile,9,,20160801,11
+(direct),(none),United States,Safari,mobile,8,,20160801,11
+google,organic,United Kingdom,Safari,mobile,9,,20160801,11
+google,organic,United States,Chrome,desktop,7,,20160801,11
+(direct),(none),United States,Safari,mobile,8,,20160801,11
+(direct),(none),United States,Chrome,desktop,8,,20160801,11
+google,organic,United States,Internet Explorer,desktop,8,,20160801,11
+(direct),(none),United States,Chrome,desktop,9,,20160801,11
+google,organic,United States,Safari,tablet,6,,20160801,11
+google,organic,United States,Chrome,desktop,9,,20160801,11
+(direct),(none),United States,Chrome,desktop,6,,20160801,11
+google,organic,United States,Chrome,desktop,9,,20160801,11
+(direct),(none),United States,Chrome,desktop,9,,20160801,11
+(direct),(none),United States,Chrome,desktop,5,,20160801,11
+(direct),(none),United States,Chrome,desktop,9,,20160801,11
+(direct),(none),United States,Chrome,desktop,7,,20160801,11
+(direct),(none),United States,Chrome,desktop,9,,20160801,11
+(direct),(none),United States,Chrome,desktop,7,,20160801,11
+(direct),(none),United States,Chrome,mobile,8,,20160801,11
+(direct),(none),United States,Chrome,desktop,10,,20160801,11
+google,organic,Bulgaria,Chrome,tablet,10,,20160801,11
+facebook.com,referral,United States,Firefox,desktop,11,,20160801,11
+sites.google.com,referral,United States,Chrome,desktop,11,,20160801,11
+(direct),(none),United States,Chrome,desktop,11,,20160801,11
+(direct),(none),United States,Chrome,desktop,11,,20160801,11
+(direct),(none),United Kingdom,Chrome,desktop,11,,20160801,11
+(direct),(none),United States,Chrome,desktop,11,,20160801,11
+(direct),(none),United States,Chrome,desktop,10,,20160801,12
+google.com,referral,Portugal,Firefox,desktop,10,,20160801,12
+(direct),(none),United States,Chrome,desktop,8,,20160801,12
+(direct),(none),United States,Chrome,desktop,11,,20160801,12
+(direct),(none),United States,Internet Explorer,desktop,11,,20160801,12
+(direct),(none),United States,Chrome,desktop,9,,20160801,12
+(direct),(none),United States,Chrome,desktop,10,,20160801,12
+(direct),(none),United States,Chrome,desktop,10,,20160801,12
+(direct),(none),Haiti,Chrome,mobile,9,,20160801,12
+(direct),(none),New Zealand,Chrome,desktop,7,,20160801,12
+(direct),(none),Taiwan,Chrome,mobile,7,,20160801,12
+(direct),(none),Canada,Chrome,desktop,10,,20160801,12
+(direct),(none),United States,Chrome,desktop,10,,20160801,12
+(direct),(none),United States,Chrome,desktop,9,,20160801,12
+google,organic,United States,Chrome,mobile,11,,20160801,12
+google,organic,United States,Safari,desktop,8,,20160801,12
+(direct),(none),United States,Chrome,desktop,10,,20160801,12
+google,organic,Vietnam,Chrome,desktop,12,,20160801,12
+(direct),(none),United States,Chrome,desktop,12,,20160801,12
+(direct),(none),United States,Chrome,desktop,12,,20160801,12
+(direct),(none),United States,Chrome,desktop,12,,20160801,12
+(direct),(none),United States,Chrome,desktop,12,,20160801,12
+(direct),(none),United States,Chrome,desktop,12,,20160801,12
+(direct),(none),United States,Chrome,mobile,12,,20160801,12
+google,organic,Taiwan,Chrome,desktop,12,,20160801,12
+(direct),(none),United States,Chrome,mobile,10,,20160801,13
+google,organic,South Korea,Chrome,desktop,8,,20160801,13
+(direct),(none),United States,Chrome,desktop,11,,20160801,13
+google,organic,United States,Chrome,desktop,9,,20160801,13
+google,organic,United States,Chrome,desktop,11,,20160801,13
+(direct),(none),United States,Chrome,desktop,10,,20160801,13
+(direct),(none),United States,Chrome,desktop,13,,20160801,13
+(direct),(none),United States,Chrome,desktop,11,,20160801,13
+(direct),(none),United States,Safari,desktop,10,,20160801,13
+(direct),(none),United States,Chrome,desktop,9,,20160801,13
+google,organic,India,Chrome,desktop,9,,20160801,13
+google,organic,Philippines,Chrome,mobile,9,,20160801,13
+google,organic,United States,Chrome,desktop,11,,20160801,13
+google,organic,United States,Chrome,desktop,10,,20160801,13
+(direct),(none),United States,Chrome,desktop,11,1,20160801,13
+google,organic,Malaysia,Chrome,desktop,10,,20160801,13
+(direct),(none),United States,Chrome,desktop,8,,20160801,13
+google,organic,United States,Chrome,desktop,12,,20160801,13
+(direct),(none),United States,Chrome,desktop,7,,20160801,14
+(direct),(none),United Kingdom,Safari,desktop,8,,20160801,14
+(direct),(none),United States,Chrome,desktop,13,,20160801,14
+(direct),(none),Japan,Chrome,desktop,9,,20160801,14
+(direct),(none),India,Chrome,desktop,5,,20160801,14
+(direct),(none),United States,Chrome,desktop,9,,20160801,14
+google,organic,Pakistan,Safari,desktop,11,,20160801,14
+google,organic,Turkey,Safari,desktop,9,,20160801,14
+(direct),(none),United States,Chrome,desktop,10,,20160801,14
+(direct),(none),United States,Chrome,desktop,9,,20160801,14
+(direct),(none),United States,Chrome,desktop,8,,20160801,14
+google,organic,United States,Chrome,desktop,12,,20160801,14
+(direct),(none),United States,Chrome,desktop,10,,20160801,14
+(direct),(none),United States,Chrome,desktop,12,,20160801,14
+google,organic,Mexico,Chrome,desktop,11,1,20160801,14
+google,organic,United States,Firefox,desktop,12,,20160801,14
+(direct),(none),United States,Chrome,desktop,9,,20160801,14
+(direct),(none),United States,Chrome,desktop,9,,20160801,14
+(direct),(none),United States,Chrome,desktop,11,,20160801,14
+(direct),(none),United States,Safari,tablet,7,,20160801,14
+sites.google.com,referral,United States,Chrome,desktop,11,,20160801,14
+youtube.com,referral,United States,Chrome,desktop,10,,20160801,15
+(direct),(none),United States,Safari,mobile,13,,20160801,15
+(direct),(none),United States,Chrome,desktop,15,,20160801,15
+google,organic,United States,Chrome,desktop,12,,20160801,15
+(direct),(none),United States,Chrome,desktop,12,,20160801,15
+(direct),(none),Canada,Edge,desktop,15,,20160801,15
+google,organic,United States,Chrome,desktop,15,,20160801,15
+google,organic,United States,Chrome,desktop,13,,20160801,15
+(direct),(none),Peru,Chrome,mobile,10,,20160801,15
+(direct),(none),Spain,Safari,mobile,12,,20160801,15
+(direct),(none),United States,Safari,tablet,9,,20160801,15
+(direct),(none),United States,Chrome,desktop,11,,20160801,16
+(direct),(none),Canada,Safari,mobile,11,,20160801,16
+youtube.com,referral,United States,Safari,desktop,13,1,20160801,16
+google,organic,United States,Chrome,desktop,8,,20160801,16
+(direct),(none),United States,Chrome,desktop,7,,20160801,16
+google,cpc,United States,Chrome,desktop,12,,20160801,16
+google,organic,United States,Chrome,desktop,12,,20160801,16
+google,organic,Canada,Chrome,desktop,12,,20160801,16
+(direct),(none),Russia,YaBrowser,desktop,16,,20160801,16
+google,cpc,United States,Chrome,desktop,11,,20160801,16
+(direct),(none),United States,Chrome,desktop,10,,20160801,16
+(direct),(none),United States,Chrome,desktop,12,,20160801,16
+(direct),(none),Japan,Chrome,desktop,12,,20160801,16
+(direct),(none),United States,Chrome,desktop,12,,20160801,17
+google,organic,United States,Safari,mobile,14,,20160801,17
+google,organic,United States,Edge,desktop,14,,20160801,17
+(direct),(none),United States,Chrome,desktop,13,,20160801,17
+(direct),(none),United States,Chrome,desktop,14,,20160801,17
+(direct),(none),United States,Chrome,desktop,13,,20160801,17
+google,organic,United States,Chrome,desktop,14,,20160801,17
+google,organic,Canada,Chrome,desktop,17,,20160801,17
+(direct),(none),United States,Chrome,mobile,11,,20160801,17
+(direct),(none),United States,Chrome,desktop,17,,20160801,17
+google,cpc,United States,Chrome,desktop,13,,20160801,17
+google,organic,Canada,Chrome,desktop,12,,20160801,17
+(direct),(none),United States,Chrome,desktop,12,,20160801,18
+(direct),(none),United States,Chrome,desktop,12,,20160801,18
+(direct),(none),United States,Chrome,desktop,14,,20160801,18
+(direct),(none),United States,Chrome,desktop,11,,20160801,18
+(direct),(none),United States,Chrome,desktop,13,,20160801,18
+(direct),(none),United States,Chrome,desktop,10,,20160801,18
+google,organic,Spain,Chrome,desktop,14,,20160801,18
+(direct),(none),United States,Chrome,desktop,14,,20160801,18
+(direct),(none),United States,Chrome,desktop,15,,20160801,18
+gatewaycdi.com,referral,United States,Chrome,desktop,14,1,20160801,18
+(direct),(none),United States,Firefox,desktop,15,,20160801,18
+(direct),(none),United States,Edge,desktop,15,,20160801,18
+(direct),(none),United States,Chrome,desktop,11,,20160801,18
+(direct),(none),United States,Chrome,desktop,16,,20160801,18
+google,organic,United Kingdom,Chrome,desktop,18,,20160801,19
+google,organic,Costa Rica,Chrome,mobile,14,,20160801,19
+google,organic,United States,Chrome,desktop,16,,20160801,19
+(direct),(none),United States,Chrome,tablet,14,,20160801,19
+(direct),(none),United States,Chrome,desktop,14,,20160801,19
+google,organic,United States,Chrome,desktop,16,,20160801,19
+(direct),(none),United States,Chrome,desktop,15,,20160801,19
+(direct),(none),Finland,Chrome,desktop,16,,20160801,19
+google,organic,United States,Safari,mobile,17,,20160801,19
+google,organic,United States,Chrome,desktop,11,,20160801,19
+facebook.com,referral,India,Chrome,desktop,14,,20160801,20
+google,organic,United States,Safari,mobile,12,,20160801,20
+google,organic,United Kingdom,Chrome,desktop,16,,20160801,20
+(direct),(none),United States,Chrome,desktop,13,,20160801,20
+(direct),(none),United States,Chrome,tablet,14,,20160801,20
+(direct),(none),United States,Chrome,desktop,17,,20160801,20
+(direct),(none),United States,Chrome,desktop,15,1,20160801,20
+(direct),(none),United States,Chrome,desktop,14,,20160801,20
+(direct),(none),United States,Chrome,desktop,18,,20160801,21
+(direct),(none),United States,Chrome,mobile,16,,20160801,21
+(direct),(none),United States,Safari,mobile,19,,20160801,21
+(direct),(none),United States,Internet Explorer,desktop,20,,20160801,21
+(direct),(none),United States,Chrome,desktop,14,,20160801,21
+(direct),(none),United States,Firefox,desktop,10,,20160801,21
+(direct),(none),United States,Chrome,desktop,17,1,20160801,21
+(direct),(none),United States,Chrome,desktop,16,,20160801,21
+(direct),(none),United States,Chrome,desktop,21,1,20160801,21
+(direct),(none),Hong Kong,Safari,mobile,19,,20160801,21
+(direct),(none),United States,Internet Explorer,desktop,17,,20160801,21
+(direct),(none),United States,Chrome,desktop,16,,20160801,21
+(direct),(none),Saudi Arabia,Chrome,desktop,17,,20160801,21
+youtube.com,referral,United States,Safari,tablet,20,,20160801,22
+google,organic,United States,Chrome,desktop,18,,20160801,22
+(direct),(none),United States,Chrome,desktop,18,,20160801,22
+(direct),(none),United States,Chrome,desktop,16,,20160801,22
+(direct),(none),United States,Chrome,desktop,14,,20160801,22
+(direct),(none),United States,Chrome,mobile,20,,20160801,22
+(direct),(none),United States,Chrome,desktop,17,1,20160801,22
+(direct),(none),United States,Safari,desktop,13,,20160801,22
+(direct),(none),United States,Chrome,desktop,18,,20160801,22
+google,organic,United States,Chrome,desktop,17,1,20160801,22
+google,organic,United States,Chrome,desktop,15,,20160801,22
+(direct),(none),United States,Chrome,desktop,15,,20160801,22
+(direct),(none),United States,Firefox,desktop,17,,20160801,22
+google,organic,India,Chrome,desktop,15,,20160801,23
+google,organic,United States,Chrome,desktop,17,,20160801,23
+(direct),(none),United States,Chrome,desktop,19,,20160801,23
+(direct),(none),United States,Chrome,desktop,20,,20160801,23
+(direct),(none),Mexico,Chrome,desktop,18,,20160801,23
+(direct),(none),United States,Chrome,desktop,19,,20160801,23
+(direct),(none),United States,Chrome,desktop,19,,20160801,23
+(direct),(none),United States,Chrome,mobile,17,,20160801,23
+(direct),(none),United States,Chrome,mobile,18,,20160801,25
+google,organic,United States,Chrome,desktop,19,1,20160801,25
+(direct),(none),Australia,Chrome,desktop,17,,20160801,25
+(direct),(none),Italy,Chrome,desktop,18,,20160801,25
+(direct),(none),United States,Chrome,desktop,21,,20160801,25
+(direct),(none),United States,Chrome,desktop,20,,20160801,25
+(direct),(none),United States,Chrome,desktop,18,,20160801,25
+(direct),(none),United States,Chrome,desktop,19,1,20160801,25
+google,organic,Colombia,Chrome,mobile,20,,20160801,25
+(direct),(none),Mexico,Chrome,desktop,17,,20160801,25
+(direct),(none),United States,Chrome,desktop,15,,20160801,26
+google,organic,United States,Safari,desktop,17,,20160801,26
+(direct),(none),United States,Safari,desktop,22,,20160801,26
+(direct),(none),United States,Chrome,desktop,18,,20160801,26
+(direct),(none),United States,Chrome,desktop,23,1,20160801,26
+google,organic,United States,Chrome,desktop,23,,20160801,26
+(direct),(none),United States,Chrome,desktop,16,,20160801,26
+(direct),(none),United States,Chrome,desktop,21,,20160801,26
+(direct),(none),Japan,Safari (in-app),mobile,20,,20160801,34
+(direct),(none),United States,Chrome,desktop,22,1,20160801,34
+(direct),(none),United States,Chrome,desktop,28,1,20160801,34
+(direct),(none),United States,Chrome,desktop,26,1,20160801,34
+(direct),(none),United States,Chrome,desktop,16,,20160801,34
+(direct),(none),United States,Chrome,desktop,24,1,20160801,34
+(direct),(none),United States,Chrome,desktop,22,,20160801,34
+(direct),(none),United States,Chrome,desktop,27,,20160801,34
+(direct),(none),United States,Chrome,mobile,31,,20160801,34
+google,organic,Hong Kong,Chrome,desktop,18,,20160801,34
+google,organic,Germany,Chrome,desktop,1,,20160801,1
+(direct),(none),United States,Chrome,mobile,1,,20160801,1
+(direct),(none),United States,Chrome,mobile,1,,20160801,1
+google,organic,Ukraine,Opera,desktop,1,,20160801,1
+google,organic,Portugal,Internet Explorer,desktop,1,,20160801,1
+google,organic,United States,Chrome,mobile,1,,20160801,1
+google,organic,United States,Chrome,mobile,1,,20160801,1
+(direct),(none),United States,Safari,mobile,1,,20160801,1
+(direct),(none),United States,Safari,tablet,1,,20160801,1
+google,organic,United States,Chrome,desktop,1,,20160801,1
+google,organic,United States,Chrome,desktop,1,,20160801,1
+google,organic,Ukraine,Chrome,desktop,1,,20160801,1
+(direct),(none),India,Firefox,desktop,1,,20160801,1
